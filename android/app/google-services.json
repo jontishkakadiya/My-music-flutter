@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "256797069150",
+    "project_id": "music-player-ba9fe",
+    "storage_bucket": "music-player-ba9fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256797069150:android:5cff2e6c7c4907a03e09cf",
+        "android_client_info": {
+          "package_name": "com.example.my_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256797069150-mvrurop9nebv8of2963fn4e481il6b9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9osd6-Tmo7ImgaEpwZTteQy2tctGOLwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256797069150-mvrurop9nebv8of2963fn4e481il6b9e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256797069150-5e7u4he8dd1gv4pv20geuk8e6i68ki58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myMusic.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
